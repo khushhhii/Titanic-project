@@ -16,5 +16,4 @@ Tools & Libraries Used:
 - Seaborn, Matplotlib
 - Scikit-learn
 
- Outcome:
-A classification model capable of predicting survival with good accuracy, plus visual insights into the dataset.
+
